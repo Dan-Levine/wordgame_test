@@ -1,0 +1,4 @@
+*.idea
+*/bin/
+*/obj/
+Wordgame.NUnit/Wordgame.NUnit.sln.DotSettings.user
